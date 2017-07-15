@@ -1,0 +1,42 @@
+﻿BEGIN_PROGRAM
+	int a,b;
+	float f;
+	float ab;
+
+Func C(int a,int b)
+
+begin
+ int c,d; 
+ int f;
+ float ag;
+ string st;
+ st = st +"1"-"k";
+	while("10+f*25)
+	{
+		
+	}
+	
+end;
+/*
+
+Func C(int a)
+begin 
+
+ while(a+b*c/10-a)
+ {
+	if(a+b*c/10)
+	{
+		f = 10;
+	}
+	else
+	{
+		
+	}
+ }
+end;
+Func A(int a,int c)
+begin 
+	int d;
+end;
+*/
+END_PROGRAM;
